@@ -1,0 +1,4 @@
+PyQt6>=6.6.0
+cryptography>=42.0.0
+zeroconf>=0.115.0
+bleak>=0.21.0
